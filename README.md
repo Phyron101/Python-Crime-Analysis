@@ -27,6 +27,11 @@ The project includes:
 * Analysing the distribution of victim ages
 * Creating visualizations to communicate findings
 
+## Key Findings
+
+* Peak hour for reported crimes: [X:00]
+* Area with the most night-time crimes: [area name]
+* Most affected victim age group: [e.g. 26-34]
 ## Files
 
 * notebook.ipynb — Python analysis and visualizations
